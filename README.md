@@ -27,6 +27,8 @@ code in the OpenCataclysm source. [You can find a ton of source codes released t
 
 ----------------------------------------------------------------------------
 
+## Building / Compiling the Source
+
 Visual Studio Express 2013 for Desktop;
 - http://www.microsoft.com/en-us/download/details.aspx?id=40787
 
