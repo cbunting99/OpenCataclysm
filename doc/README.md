@@ -1,0 +1,1 @@
+These are just the original docs from TrinityCore!

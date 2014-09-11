@@ -1,0 +1,1 @@
+I will add the auth/characters/world database shortly!
