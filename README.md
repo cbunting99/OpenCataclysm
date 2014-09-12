@@ -49,14 +49,15 @@ Win32OpenSSL-1_0_1h.exe 17.6 MB
 - https://mega.co.nz/#!9FAGxRwQ!Cpc2hyRxD4fFuL46sAmZAy89EF8KohRu1wGpidZdNGE
 
 OpenCataclysm 4.3.4 (15595) Streaming Download Client: (8MB Download)
-- https://mega.co.nz/#!pAZDjIxA!ptmVNFXLoGkMXbWcumvTVbKhBN9O5lLH9PxQHZVOZcA
+- https://mega.co.nz/#!ZRZ1VDCB!ptmVNFXLoGkMXbWcumvTVbKhBN9O5lLH9PxQHZVOZcA
 
 Various Addons for Cataclysm Client 4.3.4
 - https://mega.co.nz/#!4VZnAKKS!NJ6mV6lojmAvISycjG0fzeFf6F1MFLo0GzBqdZtMxkc
 
 NOTICE ABOUT DBC/MAPS/MMAPS/VMAPS:
 - You can get the latest files from our repack!
--- link goes here..
+- OC-4.3.4-Repack (MediaFire) http://www.mediafire.com/download/2fph63ihfd57e15/CoreServer.7z
+- OC-4.3.4-Repack (Mega)
 
 OpenCataclysm Source Code:
 - https://github.com/cbunting99/OpenCataclysm
