@@ -31,6 +31,12 @@ code in the OpenCataclysm source. [You can find a ton of source codes released t
 
 ----------------------------------------------------------------------------
 
+## OpenCataclysm Repack (Pre-Configured)
+- Includes UwAmp Server + MySQL
+- All Latest Maps, dbc/maps/mmaps/vmaps (Maps are only provided in the Repack)
+- Full Database (DB Updates will be provided to GitHub Only)
+- https://mega.co.nz/#!oVRVjKDD!4iRJyhjFIjIFXg8vtu1qB9FKxIPS40TJ76WLmtweAUA
+
 ## Building / Compiling the Source
 
 Visual Studio Express 2013 for Desktop;
@@ -53,10 +59,6 @@ OpenCataclysm 4.3.4 (15595) Streaming Download Client: (8MB Download)
 
 Various Addons for Cataclysm Client 4.3.4
 - https://mega.co.nz/#!4VZnAKKS!NJ6mV6lojmAvISycjG0fzeFf6F1MFLo0GzBqdZtMxkc
-
-NOTICE ABOUT DBC/MAPS/MMAPS/VMAPS:
-- You can get the latest files from our repack!
-- OC-4.3.4-Repack (Mega) https://mega.co.nz/#!oVRVjKDD!4iRJyhjFIjIFXg8vtu1qB9FKxIPS40TJ76WLmtweAUA
 
 OpenCataclysm Source Code:
 - https://github.com/cbunting99/OpenCataclysm
