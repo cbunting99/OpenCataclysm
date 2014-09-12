@@ -20,10 +20,14 @@ I have used some code from different emulators to replace old or outdated
 code in the OpenCataclysm source. [You can find a ton of source codes released that I have forked on my github](https://github.com/cbunting99?tab=repositories),
 
 ## Emulator Code Bases Used;
-- SkyfireCore
-- TrinityCore
-- ArkCore
-- OpenWow
+- [SkyfireCore](https://github.com/cbunting99/SkyFire_5xx).
+- [TrinityCore](https://github.com/cbunting99/TrinityCore).
+- [ArkCore](https://github.com/Arkania/ArkCORE).
+- [WowSource](https://github.com/aikonlee/WoWSource434).
+- [JadeCore](https://github.com/cbunting99/JadeCore).
+- [MOP 5.0.5 Dev](https://github.com/naraa/MOP-Dev).
+- [Pandaren5.3.0](https://github.com/Raknar/Pandaren5.3.0).
+- [OpenWow](https://github.com/OpenEmulator/OpenWoW).
 
 ----------------------------------------------------------------------------
 
