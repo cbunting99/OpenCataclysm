@@ -18,7 +18,7 @@ help with fixing quests, SmartAI ETC.. Please Contribute back to the Project!
 ----------------------------------------------------------------------------
 
 ## OpenCataclysm Repack (Pre-Configured)
-- Includes UwAmp Server + MySQL
+- Includes [UwAmp Server](http://www.uwamp.com/en/) + MySQL
 - All Latest Maps, dbc/maps/mmaps/vmaps (Maps are only provided in the Repack)
 - Full Database (DB Updates will be provided to GitHub Only)
 - https://mega.co.nz/#!oVRVjKDD!4iRJyhjFIjIFXg8vtu1qB9FKxIPS40TJ76WLmtweAUA
