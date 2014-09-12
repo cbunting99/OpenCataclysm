@@ -15,10 +15,6 @@ help with fixing quests, SmartAI ETC.. Please Contribute back to the Project!
 - Pet LOS - Line of Sight (vmaps)
 - Various other additions.. See worldserver.conf
 
-[![Build Status](https://travis-ci.org/cbunting99/OpenCataclysm.svg)](https://travis-ci.org/cbunting99/OpenCataclysm)
-
-[![Coverage Status](https://coveralls.io/repos/cbunting99/OpenCataclysm/badge.png)](https://coveralls.io/r/cbunting99/OpenCataclysm)
-
 ----------------------------------------------------------------------------
 I have used some code from different emulators to replace old or outdated
 code in the OpenCataclysm source. [You can find a ton of source codes released that I have forked on my github](https://github.com/cbunting99?tab=repositories),
