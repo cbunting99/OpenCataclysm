@@ -20,6 +20,8 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
+ // Scripts added but not implemented! Chris-09-12-2014
+ 
 #ifndef __TRINITY_BATTLEPETMGR_H
 #define __TRINITY_BATTLEPETMGR_H
 

@@ -15,6 +15,13 @@ help with fixing quests, SmartAI ETC.. Please Contribute back to the Project!
 - Pet LOS - Line of Sight (vmaps)
 - Various other additions.. See worldserver.conf
 
+## Included Features / Untested
+- Working Spells / Spellbooks, Talents, Specializations, Mastery
+- Tradeskills: Alchemy, Jewelcrafting, Blacksmithing ETC
+- Other Skills: Archaeology and Reforging
+
+Most of my ideas or direction comes from http://www.wowhead.com/guide=cataclysm
+
 ----------------------------------------------------------------------------
 
 ## OpenCataclysm Repack (Pre-Configured)
