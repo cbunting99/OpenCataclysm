@@ -52,8 +52,7 @@ Various Addons for Cataclysm Client 4.3.4
 
 NOTICE ABOUT DBC/MAPS/MMAPS/VMAPS:
 - You can get the latest files from our repack!
-- OC-4.3.4-Repack (MediaFire) http://www.mediafire.com/download/2fph63ihfd57e15/CoreServer.7z
-- OC-4.3.4-Repack (Mega)
+- OC-4.3.4-Repack (Mega) https://mega.co.nz/#!oVRVjKDD!4iRJyhjFIjIFXg8vtu1qB9FKxIPS40TJ76WLmtweAUA
 
 OpenCataclysm Source Code:
 - https://github.com/cbunting99/OpenCataclysm
@@ -81,14 +80,13 @@ For further information on the TrinityCore project, please visit our project
 website at [TrinityCore.org](http://www.trinitycore.org).
 
 
-## Requirements
+## Requirements (All used libraries linked above!)
 
 + Platform: Windows
 + Processor with SSE2 support
 + Boost ≥ 1.49
-+ CMake ≥ 2.8.11.2 / 2.8.9 (Windows / Linux)
++ CMake ≥ 2.8.11.2 / 2.8.9 (Windows)
 + OpenSSL ≥ 1.0.0
-+ GCC ≥ 4.7.2 (Linux only)
 + MS Visual Studio ≥ 12 (2013) (Windows only)
 
 
