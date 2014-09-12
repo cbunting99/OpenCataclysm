@@ -16,6 +16,15 @@ help with fixing quests, SmartAI ETC.. Please Contribute back to the Project!
 - Various other additions.. See worldserver.conf
 
 ----------------------------------------------------------------------------
+
+## OpenCataclysm Repack (Pre-Configured)
+- Includes UwAmp Server + MySQL
+- All Latest Maps, dbc/maps/mmaps/vmaps (Maps are only provided in the Repack)
+- Full Database (DB Updates will be provided to GitHub Only)
+- https://mega.co.nz/#!oVRVjKDD!4iRJyhjFIjIFXg8vtu1qB9FKxIPS40TJ76WLmtweAUA
+
+----------------------------------------------------------------------------
+
 I have used some code from different emulators to replace old or outdated
 code in the OpenCataclysm source. [You can find a ton of source codes released that I have forked on my github](https://github.com/cbunting99?tab=repositories),
 
@@ -30,12 +39,6 @@ code in the OpenCataclysm source. [You can find a ton of source codes released t
 - [OpenWow](https://github.com/OpenEmulator/OpenWoW).
 
 ----------------------------------------------------------------------------
-
-## OpenCataclysm Repack (Pre-Configured)
-- Includes UwAmp Server + MySQL
-- All Latest Maps, dbc/maps/mmaps/vmaps (Maps are only provided in the Repack)
-- Full Database (DB Updates will be provided to GitHub Only)
-- https://mega.co.nz/#!oVRVjKDD!4iRJyhjFIjIFXg8vtu1qB9FKxIPS40TJ76WLmtweAUA
 
 ## Building / Compiling the Source
 
