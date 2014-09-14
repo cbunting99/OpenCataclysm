@@ -1,0 +1,13 @@
+Since I am busy with a few different projects, when time permits, I will
+update and test the OpenCataclysm Development Server. So any updates or
+database changes that are made, will be tested the best I can first before
+I will include them in github!
+
+Please check the OpenCataclysm Forums from time to time as DB updates will
+more than likely be posted there as it's easier to release them!
+
+Open Cataclysm Forums:
+http://wow.boi-infinity.com/forum/
+
+Open Cataclysm Development Server;
+http://wow.boi-infinity.com 
