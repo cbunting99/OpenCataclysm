@@ -30,7 +30,7 @@ Most of my ideas or direction comes from http://www.wowhead.com/guide=cataclysm
 - Full Database is included. Will add updated when time permits.
 - https://mega.co.nz/#!oVRVjKDD!4iRJyhjFIjIFXg8vtu1qB9FKxIPS40TJ76WLmtweAUA
 
-## OpenCataclysm + Free OpenCMS (Free Version of FusionCMS)
+## OpenCataclysm + OpenCMS (Free Version of FusionCMS)
 You can get the OpenCMS here; https://github.com/cbunting99/OpenCMS
 
 ----------------------------------------------------------------------------
