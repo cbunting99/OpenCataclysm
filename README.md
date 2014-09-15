@@ -27,7 +27,7 @@ Most of my ideas or direction comes from http://www.wowhead.com/guide=cataclysm
 ## OpenCataclysm Repack (Pre-Configured)
 - Includes [UwAmp Server](http://www.uwamp.com/en/) + MySQL
 - All Latest Maps, dbc/maps/mmaps/vmaps (Maps are only provided in the Repack)
-- Full Database (DB Updates will be provided to [our forums only](http://wow.boi-infinity.com/forum/))
+- Full Database is included. Will add updated when time permits.
 - https://mega.co.nz/#!oVRVjKDD!4iRJyhjFIjIFXg8vtu1qB9FKxIPS40TJ76WLmtweAUA
 
 ----------------------------------------------------------------------------
