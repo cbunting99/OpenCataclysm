@@ -1,6 +1,9 @@
-The complete database is found in the repack!
+These will always be the most up to data databases!
 
-I will only add updates to the update folder.
+The repack was released before any additional core
+changes were made so it was put together as a test
+version that has all of the needed maps. 
 
-I will add the auth/characters/world when I can
-get them to upload correctly.
+You will need to use the latest databases from here 
+as well as compile the latest source code to have an 
+up to date repack!
