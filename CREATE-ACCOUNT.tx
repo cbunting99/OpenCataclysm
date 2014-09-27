@@ -1,0 +1,11 @@
+ACCOUNT NOTES:
+
+To create a new account, In the worldserver console type;
+
+account create username password
+
+To create a GM char,
+
+account set gmlevel username 3 -1
+
+There is an add-on for the client called GM Genie, it is a pretty useful add-on!
