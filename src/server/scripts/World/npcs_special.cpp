@@ -3491,7 +3491,7 @@ public:
 /*######
 ## npc_dancing_rune_weapon
 ######*/
-
+/*
 class npc_dancing_rune_weapon : public CreatureScript
 {
 public:
@@ -3517,7 +3517,7 @@ public:
             }
         }
 
-        void UpdateAI( const uint32 /*diff*/)
+        void UpdateAI( const uint32 )
         {   
             if(Unit* owner = me->GetOwner())
             {
@@ -3543,6 +3543,7 @@ public:
         return new npc_dancing_rune_weaponAI(creature);
     }
 };
+*/
 
 void AddSC_npcs_special()
 {
@@ -3587,5 +3588,5 @@ void AddSC_npcs_special()
     new npc_melee_guardian();
 	new npc_Tentacle_of_the_Old_Ones();
 	new npc_remove_phase_auras();
-	new npc_dancing_rune_weapon();
+//	new npc_dancing_rune_weapon();
 }

@@ -3987,6 +3987,7 @@ class spell_gen_luck_of_the_draw : public SpellScriptLoader
 };
 
 // Forged Fury (trinket)
+/*
 class spell_gen_forged_fury: public SpellScriptLoader 
 {
 public:
@@ -4011,7 +4012,7 @@ public:
                 return SPELL_FAILED_NO_POWER;
             }
             
-            void BeforeEffect(SpellEffIndex /*effIndex*/) 
+            void BeforeEffect(SpellEffIndex ) 
             {
                 Unit* caster = GetCaster();
                 Unit* target = GetHitUnit();
@@ -4037,9 +4038,11 @@ public:
             return new spell_gen_forged_fury_SpellScript();
         }
 };
+*/
 
 
 // Apparatus of Khaz'goroth (trinket)
+/*
 class spell_gen_blessing_of_khazgoroth: public SpellScriptLoader 
 {
 public:
@@ -4049,7 +4052,7 @@ public:
         {
             PrepareSpellScript(spell_gen_blessing_of_khazgoroth_SpellScript)
 
-            void BeforeEffect(SpellEffIndex /*effIndex*/) 
+            void BeforeEffect(SpellEffIndex ) 
             {
                 Unit* caster = GetCaster();
 
@@ -4106,8 +4109,10 @@ public:
             return new spell_gen_blessing_of_khazgoroth_SpellScript();
         }
 };
+*/
 
 // Scales of Life (trinket)
+/*
 class spell_gen_tipping_of_scales : public SpellScriptLoader 
 {
 public:
@@ -4127,7 +4132,7 @@ public:
                 return SPELL_FAILED_NO_POWER;
             }
             
-            void BeforeEffect(SpellEffIndex /*effIndex*/) 
+            void BeforeEffect(SpellEffIndex ) 
             {
                 if (Unit* caster = GetCaster())
                 {
@@ -4150,6 +4155,7 @@ public:
             return new spell_gen_tipping_of_scales_SpellScript();
         }
 };
+*/
 
 void AddSC_generic_spell_scripts()
 {
@@ -4254,7 +4260,7 @@ void AddSC_generic_spell_scripts()
 //    new spell_gen_scales_of_life();
     new spell_gen_apparatus_of_khaz();
     new spell_gen_luck_of_the_draw();
-    new spell_gen_forged_fury();
-    new spell_gen_blessing_of_khazgoroth();
-    new spell_gen_tipping_of_scales();
+//    new spell_gen_forged_fury();
+//    new spell_gen_blessing_of_khazgoroth();
+//    new spell_gen_tipping_of_scales();
 }
