@@ -1,11 +1,5 @@
-We currently have a live development server!
+I'm taking the server down until I have a chance to work on the project again.
 
-The website and server are a work in progress!
-
-http://opencataclysm.com
+I'm just to busy to work on 2 servers at the moment.
 
 Chris
-cbunting99@gmail.com
-
-Developer - Programmer
-http://boi-infinity.com
